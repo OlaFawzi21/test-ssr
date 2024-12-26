@@ -133,7 +133,7 @@
           "options": {
             "routes": [
               "/",
-              "/articles"
+              "/articles/1"
             ]
           },
           "configurations": {
