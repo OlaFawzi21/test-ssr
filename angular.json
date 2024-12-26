@@ -132,8 +132,7 @@
           "builder": "@nguniversal/builders:prerender",
           "options": {
             "routes": [
-              "/",
-              "/articles/1"
+              "/"
             ]
           },
           "configurations": {
